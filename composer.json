@@ -4,7 +4,6 @@
     "homepage": "https://github.com/oracleh2/nginx-log-analyzer-php8",
     "license": "MIT",
     "type": "library",
-    "version": "1.1.0",
     "require": {
         "php": "^7.3||^8.0"
     },
