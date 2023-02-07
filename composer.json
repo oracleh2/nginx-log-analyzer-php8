@@ -1,7 +1,7 @@
 {
-    "name": "diwms/nginx-log-analyzer",
+    "name": "oracleh2/nginx-log-analyzer-php8",
     "description": "Analyze/Parse Nginx log using php",
-    "homepage": "https://github.com/diwms/nginx-log-analyzer",
+    "homepage": "https://github.com/oracleh2/nginx-log-analyzer-php8",
     "license": "MIT",
     "type": "library",
     "version": "1.1.0",
