@@ -9,6 +9,7 @@
 ---
 
 ## Attention
+
 This package is a copy of the package
 https://github.com/diwms/nginx-log-analyzer
 completely written and owned by
@@ -16,12 +17,12 @@ https://github.com/diwms
 Unfortunately, the author no longer supports the project, and PHP versions are updated.
 I took the liberty of adding php8 support.
 Work on php8 has not been tested. Do not use it on production servers.
----
+```
 
 ## Installation
 
 ```bash
-composer require diwms/nginx-log-analyzer
+composer require oracleh2/nginx-log-analyzer-php8
 ```
 
 ## Usage
